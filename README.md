@@ -1,5 +1,6 @@
 # switch-input-css
 A css library to use ios-styled check and radio buttons in your webpage
+[Download source code](https://github.com/n3-rd/switch-input-css/archive/0.1.zip "Download source code")
 ## How to use
 link all styles
 ```html
