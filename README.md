@@ -25,3 +25,29 @@ link pink style
 ```html
 <link rel="stylesheet" href="https://res.cloudinary.com/dcylypyc6/raw/upload/v1571529281/switch-input-pink_j1mujp.css">
 ```
+# How To Use
+just add label tag like:
+```html
+<label class="switch-checkbox-default" >
+<input type="checkbox"><span>Default</span>
+</label>
+```
+
+```html
+<label class="switch-radio-default" >
+<input type="radio"><span>Default</span>
+</label>
+```
+to use the other colours, change the -default to the colour name
+for example:
+```html
+<label class="switch-checkbox-blue" >
+<input type="checkbox"><span>Blue</span>
+</label>
+```
+
+```html
+<label class="switch-radio-yellow" >
+<input type="radio"><span>Yellow</span>
+</label>
+```
